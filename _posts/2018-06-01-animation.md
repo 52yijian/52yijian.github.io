@@ -11,7 +11,7 @@ author: 吾愛醫檢
 
 与其他开发人员不同的是，前端开发都是在端上游走舞者，直接与用户交流沟通，这就需要前端开发具有更敏锐的交互体验思考，或者能更精准地理解设计师们意图，将最佳的用户体验带给用户。优质的交互体验对于用户来说学习成本应该是极低的，都是非常自然的操作，却可以让用户感到畅快愉悦，甚至惊喜。本文将通过一个看似简单的 poplayer 来分析我在这其中通过思考做的体验优化，获得类似 native 的体验感。
 
-![](https://ws1.sinaimg.cn/large/7011d6cfgy1frx9jv0kpfj208w0fracu.jpg)
+![图片1](https://github.com/52yijian/52yijian.github.io/blob/master/pic/2018-8-27%20tiyexingtai/%E5%9B%BE%E7%89%871.png)
 
 
 
