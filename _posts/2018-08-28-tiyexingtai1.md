@@ -8,10 +8,10 @@ author: 吾愛醫檢
 
 * content
 {:toc}
-### 以下图片选自2018年形态学室间质评-体液考核试题
+### 以下图片选自2018年形态学室间质评-体液考核试题1
 ##### 如何查看答:选中“【】”里面的内容即可查看。
 
-1.**查看答案：** 【<font color="#FAFAFA>红细胞</font>】
+1.**查看答案：** 【<font color="#FAFAFA">红细胞</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/sYY4M7V5pW5LZr.eJ4CCy9ZnM*thQ1cQuFV9OtLj0Is!/b/dDUBAAAAAAAA&bo=ogLbAQAAAAADRxg!&rf=viewer_4)
 
