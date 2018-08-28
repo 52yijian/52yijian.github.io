@@ -12,26 +12,26 @@ author: 吾愛醫檢
 ### 以下图片选自2018年形态学室间质评-体液考核试题
 ##### 如何查看答:选中“【】”里面的内容即可查看。
 
-1. **查看答案：** 【<font color="#FCFCFC">红细胞：</font>】
+1.**查看答案：** 【<font color="#FCFCFC">红细胞：</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/sYY4M7V5pW5LZr.eJ4CCy9ZnM*thQ1cQuFV9OtLj0Is!/b/dDUBAAAAAAAA&bo=ogLbAQAAAAADRxg!&rf=viewer_4)
 
 
 
 
-2. **查看答案：** 【<font color="#FCFCFC">白细胞</font>】
+2.**查看答案：** 【<font color="#FCFCFC">白细胞</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/k32JMy*Y.kj1.dzAQ9gg5T7KSz*Gdaw.jji4S9YqeRc!/b/dDMBAAAAAAAA&bo=3QFCAQAAAAADJ50!&rf=viewer_4)
 
-3. **查看答案：** 【<font color="#FCFCFC">脂肪管型</font>】
+3.**查看答案：** 【<font color="#FCFCFC">脂肪管型</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/2qZ4ROpppoUDegs9N.Bum33RCDfm6p91t9vArvdV81I!/b/dDMBAAAAAAAA&bo=3AE*AQAAAAADJ.E!&rf=viewer_4)
 
-4. **查看答案：** 【<font color="#FCFCFC">尿酸结晶</font>】
+4.**查看答案：** 【<font color="#FCFCFC">尿酸结晶</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/aFTtR6yolYWSKBs4eIZ2LnEjIAabT46v7fpc6GxAaiw!/b/dDQBAAAAAAAA&bo=XwKzAQAAAAADN*0!&rf=viewer_4)
 
-5. **查看答案：** 【<font color="#FCFCFC">移行上皮细胞</font>】
+5.**查看答案：** 【<font color="#FCFCFC">移行上皮细胞</font>】
  
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/cW*XPYV2wivbJRWl.ViNqGbH.T0NcyW3v*QrkssbLM0!/b/dDQBAAAAAAAA&bo=agKhAQAAAAADN9o!&rf=viewer_4)
 
