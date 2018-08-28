@@ -11,7 +11,7 @@ author: 吾愛醫檢
 
 ### 以下图片选自2018年形态学室间质评-体液考核试题
 
-1. **选中括号内容查看答案：**【<font color=#ffffff>红细胞</font>】
+1. **选中括号内容查看答案：**<font color="#dd0000">浅红色文字：</font><br />
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/sYY4M7V5pW5LZr.eJ4CCy9ZnM*thQ1cQuFV9OtLj0Is!/b/dDUBAAAAAAAA&bo=ogLbAQAAAAADRxg!&rf=viewer_4)
 
 
