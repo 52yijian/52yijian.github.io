@@ -10,13 +10,9 @@ author: 吾愛醫檢
 {:toc}
 
 ### 以下图片选自2018年形态学室间质评-体液考核试题
-> #####如何查看答:选中“【】”里面的内容即可查看，看看你能对几道？:smile:
-1. **查看答案：**【<font color="#FCFCFC">红细胞</font>】
+#####如何查看答:选中“【】”里面的内容即可查看
+1. **查看答案：**<font color="#FCFCFC">红细胞：</font>
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/sYY4M7V5pW5LZr.eJ4CCy9ZnM*thQ1cQuFV9OtLj0Is!/b/dDUBAAAAAAAA&bo=ogLbAQAAAAADRxg!&rf=viewer_4)
-
-
-
-
 2. **查看答案：**【<font color="#FCFCFC">白细胞</font>】
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/k32JMy*Y.kj1.dzAQ9gg5T7KSz*Gdaw.jji4S9YqeRc!/b/dDMBAAAAAAAA&bo=3QFCAQAAAAADJ50!&rf=viewer_4)
 3. **查看答案：**【<font color="#FCFCFC">脂肪管型</font>】
