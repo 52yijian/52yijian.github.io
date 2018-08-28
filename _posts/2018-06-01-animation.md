@@ -11,8 +11,12 @@ author: 吾愛醫檢
 
 ### 以下图片选自2018年形态学室间质评-体液考核试题
 
-1. **选中括号内容查看答案：**【<font color=#ffffff size=4>红细胞</font>】
+1. **选中括号内容查看答案：**【<font color=#ffffff>红细胞</font>】
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/sYY4M7V5pW5LZr.eJ4CCy9ZnM*thQ1cQuFV9OtLj0Is!/b/dDUBAAAAAAAA&bo=ogLbAQAAAAADRxg!&rf=viewer_4)
+
+
+
+
 2. **选中括号内容查看答案：**【<font color=#ffffff size=4>白细胞</font>】
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/k32JMy*Y.kj1.dzAQ9gg5T7KSz*Gdaw.jji4S9YqeRc!/b/dDMBAAAAAAAA&bo=3QFCAQAAAAADJ50!&rf=viewer_4)
 3. **选中括号内容查看答案：**【<font color=#ffffff size=4>脂肪管型</font>】
