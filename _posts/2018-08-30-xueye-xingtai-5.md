@@ -11,22 +11,22 @@ author: 吾愛醫檢
 ### 以下图片选自2018年形态学室间质评-血液考核试题5
 > 如何查看答:选中“【】”里面的内容即可查看。
 
-41.**查看答案：** 【<font color="#FAFAFA">早幼红细胞</font>】
+#### 41.查看答案： 【<font color="#FAFAFA">早幼红细胞</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/VV4FZu1nBwiYdwhvbFgyYvhS77esqWsong6eLV1L*80!/b/dIMAAAAAAAAA&bo=4gI4AgAAAAADB*g!&rf=viewer_4)
 
 
 
 
-42.**查看答案：** 【<font color="#FAFAFA">类/巨幼变幼红细胞</font>】
+#### 42.查看答案：【<font color="#FAFAFA">类/巨幼变幼红细胞</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/*U3OXEWegHcF6sUV6IT0rUAd9cAFx3fJgsECDMvYoRg!/b/dFYAAAAAAAAA&bo=WALBAQAAAAARF7o!&rf=viewer_4)
 
-43.**查看答案：** 【<font color="#FAFAFA">中幼红细胞</font>】
+#### 43.查看答案：【<font color="#FAFAFA">中幼红细胞</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/wY*vXLvNDQjqYdGBjeMtdaYYfA15HEABR4CjQJ8S7sA!/b/dDYBAAAAAAAA&bo=vAKmAQAAAAARFzk!&rf=viewer_4)
 
-44.**查看答案：** 【<font color="#FAFAFA">浆细胞</font>】
+#### 44.查看答案：【<font color="#FAFAFA">浆细胞</font>】
 
 ![](http://m.qpic.cn/psb?/V10ERWVs2gqn6Q/MHfrocr9Udm*L22bcp5ZGrHxWYdCL*cHutcwFaOr5Io!/b/dDUBAAAAAAAA&bo=9gI5AgAAAAADR60!&rf=viewer_4)
 
